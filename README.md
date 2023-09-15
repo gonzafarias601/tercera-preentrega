@@ -1,0 +1,3 @@
+# segunda-preentrega
+Esta es mi Tercera Preentrega del proyecto final
+hice una pagina de Adidas aplicando Grids (en las paginas "Localidades y Nosotros") y display flex (en las paginas "HOME, Ropa, y Seleccion"), hice responsive 3 paginas "Ropa, La Seleccion y Home" en las medidas 1024px, 768px y 425px, la pagina tiene el objetivo de darle una imagen más actualizada a la marca y de paso hacer más dinamica la tarea de buscar productos, todo el css se paso a scss y se clasifico por carpetas el css de cada una de las paginas, y en la carpeta MEDIA estan las paginas con responsive.

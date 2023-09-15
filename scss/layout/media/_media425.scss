@@ -1,0 +1,105 @@
+@media (max-width:425px){
+    header{
+        div{
+            img{
+                margin: .5rem .5rem;
+                width: 60px;
+                height: 40px;
+            }
+        }
+    }
+    .ulNavegador{
+        display: flex;
+        list-style: none;
+        justify-content: center;
+        li{    
+            display:inline;
+            font-weight: bold;
+            padding-left: .125rem;
+            padding-right: .1875rem;
+            padding-top: 3.125rem;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+            font-size: 5px;
+        }
+    }
+    .sectionVestimentaRopa{
+        display: flex;
+        justify-content: center;
+        margin: 0rem 1.25rem;
+        font-family: 'Roboto',sans-serif;
+        justify-content: space-between;
+        align-items: center;
+        img{
+        width:  3.625rem;
+        height: 6.25rem;
+        }
+        h3{
+            color: white;
+            font-size: .375rem;
+        }
+    }
+    .CamisetasDeportivas{
+        img{
+            width: 18.75rem;
+            height: 9.375rem;
+            display:flex;
+            justify-content: center;
+            align-content: center;
+            margin-left: 40px;
+        }
+        h3{
+            margin-left: 40px;
+            color: white;
+            font-size: 9px;
+            font-family: 'Roboto',sans-serif;
+        }
+    }
+    .pieDePagina{
+        h2{
+            font-size: 6px;
+            margin-left: 35px;
+        }
+        ul{
+            font-size: 7px;
+            margin: 0;
+        }    
+    }
+    .ulRedes{
+        img{
+            width: .625rem;
+            height: .625rem;
+        }
+    }
+    footer{
+        width: 26.5625rem;
+    }
+    .bodyRopaSeleccion{
+        header{
+            width: 100%;
+            height: 100px;
+            background-image: url(../assets/img//festejoarg.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 90%;
+        }
+    }
+    .sectionVestimentaSeleccion{
+        display: flex;
+        justify-content: space-between;
+        img{
+            width: 3.75rem;
+            height: 5.625rem;
+        }
+        h3{
+            color: white;
+            font-family: 'Roboto',sans-serif;
+            font-size: 7px;
+        }
+    }
+
+
+
+}
